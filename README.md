@@ -16,6 +16,7 @@
     <br />
     <a href="">데모 영상 보기(준비중)</a> ·
     <a href="https://www.notion.so/1-a011870b9d85404f89beca26bec26033">설계 문서</a> ·
+    <a href="https://github.com/KHUCapston-concoder/Frontend">FRONTEND PROJECT</a>
     <a href="https://github.com/KHUCapston-concoder/Backend">BACKEND PROJECT</a>
   </p>
 </div>
